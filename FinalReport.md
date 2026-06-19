@@ -203,5 +203,5 @@ One important lesson from this project is that a clear structure matters a lot i
 
 | No. | Department | Student ID | Name | Contribution Ratio |
 |------|------|------|------|------|
-| 1 | Computer Science | 113590033 | 曾衡昌 | 50% |
-| 2 | Computer Science | 113590040 | 應尼歌 | 50% |
+| 1 | 資工二 | 113590033 | 曾衡昌 | 50% |
+| 2 | 資工二 | 113590040 | 應尼歌 | 50% |
