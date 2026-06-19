@@ -49,9 +49,24 @@ The recreated game follows the classic side scrolling Mario formula.
 Based on the current project resources and scene logic, the game includes the following main screens:
 
 - **Title screen** with animated coin graphics, cursor, logo, and start prompt.
+  
+  ![Title Screen](img/Title_Screen.png)
+
 - **Level intro screen** showing world and life information before gameplay starts.
-- **Main gameplay screen** with HUD elements such as score, world, time, and coin count.
+  
+  ![Level Intro Screen](img/Level_Intro.png)
+
+- **Main gameplay screen** with HUD elements such as score, world, time, and coin count. Since this project recreates three stages, the gameplay section includes screenshots from **World 1-1**, **World 1-2**, and **World 1-3**.
+
+  ![Main Gameplay Screen - World 1-1](img/HUD_1-1.png)
+
+  ![Main Gameplay Screen - World 1-2](img/HUD_1-2.png)
+
+  ![Main Gameplay Screen - World 1-3](img/HUD_1-3.png)
+
 - **Goal sequence scene** after touching the flagpole and entering the castle.
+
+  ![Goal Sequence Scene](img/Goal.png)
 
 ## Program Design
 
